@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 This asynchronous play-by-post campaign was created to satisfy the curiosity and desire to play Classic Traveller, the rulebook of "science fiction adventures in the far future".
 
 It is due Febraury 2022 and it will have this features:
