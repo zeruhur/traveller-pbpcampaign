@@ -4,10 +4,10 @@ This asynchronous play-by-post campaign was created to satisfy the curiosity and
 
 It is due Febraury 2022 and it will have this features:
 
-1) **Fully sandbox open table campaign**
-2) **Homebrew setting** (starting from a single subsector)
-3) **Use of only 3LBB + Citizen of the Imperium**
-4) **Use of Paul Elliott's abstract space combat rules** from Darkest Stars #1
+1. **Fully sandbox open table campaign**
+2. **Homebrew setting** (starting from a single subsector)
+3. **Use of only 3LBB + Citizen of the Imperium**
+4. **Use of Paul Elliott's abstract space combat rules** from Darkest Stars #1
 
 ## Asynchronous Play
 
